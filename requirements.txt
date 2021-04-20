@@ -1,0 +1,17 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+click==7.1.2
+comtypes==1.1.9
+Flask==1.1.2
+google==3.0.0
+google-cloud==0.34.0
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+PyPDF2==1.26.0
+pypiwin32==223
+pyttsx3==2.90
+pywin32==300
+soupsieve==2.2.1
+Werkzeug==1.0.1
+wincertstore==0.2
